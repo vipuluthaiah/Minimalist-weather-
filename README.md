@@ -6,6 +6,11 @@ Build In Flutter
 
 This project is a starting point for a Flutter application.
 
+
+<img src="https://github.com/vipuluthaiah/Minimalist-weather-/blob/master/ss/WhatsApp-Video-2020-04-27-at-10.28.20-PM.gif" width="300" height="550">
+<img src="https://github.com/vipuluthaiah/Minimalist-weather-/blob/master/ss/WhatsApp%20Image%202020-04-27%20at%2010.28.09%20PM.jpeg" width="300" height="550">
+
+
 Concepts & Widgets used
 🎯Scaffold
 🎯AppBar with no elevation
@@ -13,11 +18,6 @@ Concepts & Widgets used
 🎯Containers, SizedBox,
 🎯Search By City
 🎯Api
-<img src="https://github.com/vipuluthaiah/Minimalist-weather-/blob/master/ss/WhatsApp-Video-2020-04-27-at-10.28.20-PM.gif" width="300" height="550">
-<img src="https://github.com/vipuluthaiah/Minimalist-weather-/blob/master/ss/WhatsApp%20Image%202020-04-27%20at%2010.28.09%20PM.jpeg" width="300" height="550">
-
-
-
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
